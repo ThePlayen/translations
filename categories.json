@@ -249,6 +249,7 @@
 			"nt":{
 				"de":"Fleischfresser",
 				"it":"Carnivori",
+				"fr":"Carnivores",
 				"es":"Carnívoros",
 				"ru":"Плотоядные",
 				"zh":"肉食性",
@@ -261,6 +262,7 @@
 			"nt":{
 				"de":"Pflanzenfresser",
 				"it":"Erbivori",
+				"fr":"Herbivores",
 				"es":"Herbívoros",
 				"ru":"Травоядные",
 				"zh":"草食性",
@@ -273,6 +275,7 @@
 			"nt":{
 				"de":"Allesfresser",
 				"it":"Onnivori",
+				"fr":"Omnivores",
 				"es":"Omnívoros",
 				"ru":"Всеядные",
 				"zh":"杂食性",
@@ -285,6 +288,7 @@
 			"nt":{
 				"de":"Fischfresser",
 				"it":"Piscivori",
+				"fr":"Piscivores",
 				"es":"Piscívoros",
 				"ru":"Ихтиофаги",
 				"zh":"鱼食性",
@@ -401,6 +405,7 @@
 			"nt":{
 				"de":"Bosse",
 				"it":"Boss",
+				"fr":"Boss",
 				"es":"Jefes",
 				"ru":"Боссы",
 				"zh":"BOSS",
@@ -443,6 +448,7 @@
 			"n":"Habitat",
 			"nt":{
 				"de":"Lebensraum",
+				"fr":"Habitat",
 				"es":"Hábitat",
 				"ru":"Среда обитания",
 				"zh":"栖息地",
@@ -454,6 +460,7 @@
 			"nt":{
 				"de":"Reitbarkeit",
 				"it":"Guidabilità",
+				"fr":"lisibilité",
 				"es":"Manejo",
 				"ru":"Управляемость",
 				"zh":"骑乘性",
